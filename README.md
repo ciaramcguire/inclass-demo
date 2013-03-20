@@ -9,3 +9,4 @@ Sample repo for demos in person
 
 * Can we rename the file?
   * Move files?
+*Edit more than one file?
